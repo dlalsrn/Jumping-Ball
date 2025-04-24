@@ -54,6 +54,7 @@ https://velog.io/@lmg0052/series/Unity3D-Jumping-Ball
 
 ## 참고
 해당 프로젝트는 골드메탈님의 강의 영상을 참고하여 진행했음을 알립니다.
+
 https://www.youtube.com/watch?v=7plGPXkmnxQ&list=PLO-mt5Iu5TeZa9dsqMVvXuSfVxwR_2AOz
 
 ## 연락처
